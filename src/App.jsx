@@ -1,11 +1,13 @@
-import Button from './components/button/Button';
+import Form from './components/form/Form';
+import Main from './components/main/Main';
+import UpperCards from './components/upper-cards/UpperCards';
 import { GlobalStyles } from './styles/GlobalStyles';
 
 const App = () => {
   return (
     <>
       <GlobalStyles />
-      <Button />
+      <Main />
     </>
   );
 };
