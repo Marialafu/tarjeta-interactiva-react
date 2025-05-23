@@ -30,6 +30,11 @@ Habiendo realizado la misma practica en Vanilla JS pude entender la lógica que 
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React logo">
     </a>
 </p>
+<p>
+    <a href="https://es.wikipedia.org/wiki/React">
+        <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled components logo">
+    </a>
+</p>
 
 ## Capturas del proyecto
 
