@@ -36,8 +36,8 @@ Habiendo realizado la misma practica en Vanilla JS pude entender la lógica que 
     </a>
 </p>
 <p>
-    <a href="https://styled-components.com/">
-        <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled components logo">
+    <a href="https://react-hook-form.com/">
+        <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" alt="React hook form logo">
     </a>
 </p>
 
