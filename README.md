@@ -58,7 +58,7 @@ María Lafuente
         <a href="micorreo@midominio.com">micorreo@midominio.com</a>
     </li>
     <li> -->
-        <a href="www.linkedin.com/in/maria-lafu">LinkedIn</a>
+        <a href="https://www.linkedin.com/in/maria-lafu">LinkedIn</a>
     </li>
     <!-- <li>
         <a href="https://tu-dominio.com/">Porfolio web</a>
