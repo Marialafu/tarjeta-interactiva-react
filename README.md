@@ -51,23 +51,23 @@ Habiendo realizado la misma practica en Vanilla JS pude entender la lógica que 
 
 ## Autor ✒️
 
-**TU NOMBRE**
+María Lafuente
 
 <ul>
-    <li>
+    <!-- <li>
         <a href="micorreo@midominio.com">micorreo@midominio.com</a>
     </li>
-    <li>
-        <a href="https://www.linkedin.com/in/tu-url-de-linkedin/">LinkedIn</a>
+    <li> -->
+        <a href="www.linkedin.com/in/maria-lafu">LinkedIn</a>
     </li>
-    <li>
+    <!-- <li>
         <a href="https://tu-dominio.com/">Porfolio web</a>
-    </li>
+    </li> -->
 </ul>
 
 ## Link del reto (si es público)
 
-<a href="">Página de frontendmentor</a>
+<a href="https://www.frontendmentor.io/challenges/interactive-card-details-form-XpS8cKZDWw">Página de frontendmentor</a>
 
 ## Instalación
 
