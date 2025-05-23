@@ -7,4 +7,7 @@ export const ROOTS = {
     textL: '18px',
     textM: '12px',
     textS: '9px',
+    textDesktopL: '28px',
+    textDesktopM: '14px',
+    
 }

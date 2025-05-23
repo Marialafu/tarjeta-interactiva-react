@@ -2,11 +2,18 @@ import styled from "styled-components";
 import { ROOTS } from "../../styles/roots";
 
 const StyledFormContainer = styled.form`
+    margin-inline: auto;
     padding: 0 1.5rem;
     display: flex;
     flex-direction: column;
     gap: 1.25rem;
     margin-bottom: 1.25rem;
+    max-width: 23.4375rem;
+
+     @media screen and (min-width: 1400px) {
+        margin-inline-end: 14.1875rem;
+        margin-block: auto;
+    }
 `
 const StyledInputContainer = styled.div`
     display: flex;
@@ -52,6 +59,7 @@ const StyledButton = styled.input`
     padding: 0.9375rem 0;
     border-radius: ${ROOTS.borderRadius};
     color: ${ROOTS.white};
+    font-family: inherit;
 `
 
 const StyledErrorMessage = styled.span`

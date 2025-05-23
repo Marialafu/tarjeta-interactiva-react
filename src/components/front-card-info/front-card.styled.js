@@ -26,23 +26,32 @@ const StyledTextContainer = styled.div`
     gap: 1.0625rem;
 `
 
-const StyledCardNumber = styled.h2`
+const StyledCardNumber = styled.span`
     font-size: ${ROOTS.textL};
     color: ${ROOTS.white};
     letter-spacing: 2.2px;
     margin: 0;
+
+    @media screen and (min-width: 1400px) {
+        font-size:  ${ROOTS.textDesktopL};
+    }
 `
 
 const StyledSubtitleContainer = styled.div`
     display: flex;
     justify-content: space-between;
     gap: 1.0625rem;
+
 `
 
 const StyledSubtitle = styled.span`
     font-size: ${ROOTS.textS};
     color: ${ROOTS.white};
     text-transform: uppercase;
+    
+    @media screen and (min-width: 1400px) {
+        font-size:  ${ROOTS.textDesktopM};
+    }
 `
 
 export {StyledIcon, StyledTextContainer, StyledCardNumber, StyledSubtitleContainer, StyledSubtitle}

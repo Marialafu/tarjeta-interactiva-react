@@ -7,6 +7,12 @@ const StyledSpan = styled.span`
     font-size: ${ROOTS.textS};
     top: 2.8125rem;
     left: 13.125rem;
+
+    @media screen and (min-width: 1400px) {
+        font-size:  ${ROOTS.textDesktopM};
+        top: 5.625rem;
+        left: 21.25rem;
+    }
 `
 
 export {StyledSpan}
